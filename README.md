@@ -6,6 +6,15 @@ Build HTML, CSS and JavaScript websites visually, right on your Android phone. N
 ![Platform](https://img.shields.io/badge/platform-Android%207.0%2B-3DDC84)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" alt="Better HTML editor"></td>
+    <td><img src="screenshots/2.png" alt="Better HTML styling"></td>
+  </tr>
+</table>
+
 ## Download
 
 Get the APK from the [Releases](https://github.com/OrixStudio/Better-HTML/releases) page. Each release has its own notes describing what changed.
@@ -13,14 +22,6 @@ Get the APK from the [Releases](https://github.com/OrixStudio/Better-HTML/releas
 To install, open the APK on your phone and allow installs from your browser or file manager when Android asks.
 
 **Requirements:** Android 7.0 (API 24) or newer.
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/1.png" width="320" alt="Better HTML editor">
-  &nbsp;&nbsp;
-  <img src="screenshots/2.png" width="320" alt="Better HTML styling">
-</p>
 
 ## What you can do
 
